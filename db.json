@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "RJ14 FEMALE JACK THROUGH-HOLE",
+        "PN": "5520258-2",
+        "MF": "TE CONNECTIVITY"
+      },
+      "MID": "MID20383",
+      "MD": "The TE Connectivity 5520258-2 is a single-port, vertical (straight) modular RJ14 jack designed for through-hole PCB mounting. Commonly used in telecom and data communications applications (like 10Base-T networks), this unshielded connector features a 6P4C configuration (6 positions, 4 loaded contacts).\n\nTechnical Specifications\n\n• Connector Type: RJ14 Jack (Female)\n• Configuration: 1x1 Port, 6P4C (6 Positions, 4 Contacts)\n• Orientation: Vertical / Straight (Top Entry)\n• Mounting Type: Through Hole (Solder termination)\n• Performance Rating: Cat 3 (suited for voice and basic data up to 10 Mbps)\n• Shielding: Unshielded (UTP)\n• Mechanical Features: Includes board locks (for stable PCB alignment) and panel stops\n• Material: Thermoplastic PBT housing (UL 94V-0 rated) with gold-plated phosphor bronze contacts\n• Operating Temperature: -40°C to 85°C",
+      "MT": "Electronic Material",
+      "MQNT": 4,
+      "MCost": 218.70,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20383%2Fmain%2F5520258-2.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20383/main/IMG_20261109_140013.jpg"
+      ]
+    }
+  ]
+}
